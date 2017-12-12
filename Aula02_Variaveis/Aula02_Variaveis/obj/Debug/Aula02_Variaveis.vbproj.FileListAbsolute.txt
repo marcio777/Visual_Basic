@@ -1,0 +1,10 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\bin\Debug\Aula02_Variaveis.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\bin\Debug\Aula02_Variaveis.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\bin\Debug\Aula02_Variaveis.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\bin\Debug\Aula02_Variaveis.xml
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\obj\Debug\Aula02_Variaveis.Resources.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\obj\Debug\Aula02_Variaveis.vbproj.GenerateResource.Cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\obj\Debug\Aula02_Variaveis.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\obj\Debug\Aula02_Variaveis.xml
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\obj\Debug\Aula02_Variaveis.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Aula02_Variaveis\Aula02_Variaveis\obj\Debug\Aula02_Variaveis.vbprojResolveAssemblyReference.cache
