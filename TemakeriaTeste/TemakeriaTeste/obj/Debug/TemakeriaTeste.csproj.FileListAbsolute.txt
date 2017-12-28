@@ -1,0 +1,10 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\bin\Debug\TemakeriaTeste.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\bin\Debug\TemakeriaTeste.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\bin\Debug\TemakeriaTeste.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\obj\Debug\TemakeriaTeste.csprojResolveAssemblyReference.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\obj\Debug\TemakeriaTeste.addfuncionario.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\obj\Debug\TemakeriaTeste.Form1.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\obj\Debug\TemakeriaTeste.Properties.Resources.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\obj\Debug\TemakeriaTeste.csproj.GenerateResource.Cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\obj\Debug\TemakeriaTeste.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\TemakeriaTeste\TemakeriaTeste\obj\Debug\TemakeriaTeste.pdb
