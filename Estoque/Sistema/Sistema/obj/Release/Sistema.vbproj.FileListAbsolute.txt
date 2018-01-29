@@ -1,0 +1,5 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Estoque\Sistema\Sistema\bin\Release\Sistema.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Estoque\Sistema\Sistema\obj\Release\Sistema.F_login.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Estoque\Sistema\Sistema\obj\Release\Sistema.Resources.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Estoque\Sistema\Sistema\obj\Release\Sistema.vbproj.GenerateResource.Cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Estoque\Sistema\Sistema\obj\Release\Sistema.xml

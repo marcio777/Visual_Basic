@@ -1,0 +1,11 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\bin\Debug\Aula_3.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\bin\Debug\Aula_3.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\bin\Debug\Aula_3.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\bin\Debug\Aula_3.xml
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\obj\Debug\Aula_3.vbprojResolveAssemblyReference.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\obj\Debug\Aula_3.Form1.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\obj\Debug\Aula_3.Resources.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\obj\Debug\Aula_3.vbproj.GenerateResource.Cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\obj\Debug\Aula_3.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\obj\Debug\Aula_3.xml
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\AULA 3 -Variavel_Objeto\Aula_3\Aula_3\obj\Debug\Aula_3.pdb

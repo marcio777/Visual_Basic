@@ -1,0 +1,11 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\bin\Debug\Inventario.xml
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\obj\Debug\Inventario.Resources.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\obj\Debug\Inventario.vbproj.GenerateResource.Cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\obj\Debug\Inventario.xml
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\obj\Debug\Inventario.vbprojResolveAssemblyReference.cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\Visual_Basic\Inventario\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
